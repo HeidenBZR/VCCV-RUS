@@ -1,0 +1,2968 @@
+Phonemes:
+  Vowels:
+  - a
+  - e
+  - o
+  - u
+  - i
+  - y
+  - ax
+  - ex
+  - x
+  Consonants:
+  - ''
+  - k
+  - l
+  - m
+  - n
+  - p
+  - r
+  - s
+  - t
+  - f
+  - h
+  - sh
+  - zh
+  - ts
+  - b
+  - v
+  - d
+  - z
+  - g
+  - k'
+  - l'
+  - m'
+  - n'
+  - p'
+  - r'
+  - s'
+  - t'
+  - f'
+  - h'
+  - sh'
+  - j
+  - ch
+  - b'
+  - v'
+  - g'
+  - d'
+  - z'
+Files:
+- Filename: __b_a_b_a_b
+  Phonemes:
+  - b
+  - a
+  - b
+  - a
+  - b
+  Description: бабаб
+- Filename: __b'_a_b'_a_b'
+  Phonemes:
+  - b'
+  - a
+  - b'
+  - a
+  - b'
+  Description: бябябь
+- Filename: __v_a_v_a_v
+  Phonemes:
+  - v
+  - a
+  - v
+  - a
+  - v
+  Description: вавав
+- Filename: __v'_a_v'_a_v'
+  Phonemes:
+  - v'
+  - a
+  - v'
+  - a
+  - v'
+  Description: вявявь
+- Filename: __g_a_g_a_g
+  Phonemes:
+  - g
+  - a
+  - g
+  - a
+  - g
+  Description: гагаг
+- Filename: __g'_a_g'_a_g'
+  Phonemes:
+  - g'
+  - a
+  - g'
+  - a
+  - g'
+  Description: гягягь
+- Filename: __d_a_d_a_d
+  Phonemes:
+  - d
+  - a
+  - d
+  - a
+  - d
+  Description: дадад
+- Filename: __d'_a_d'_a_d'
+  Phonemes:
+  - d'
+  - a
+  - d'
+  - a
+  - d'
+  Description: дядядь
+- Filename: __z_a_z_a_z
+  Phonemes:
+  - z
+  - a
+  - z
+  - a
+  - z
+  Description: зазаз
+- Filename: __z'_a_z'_a_z'
+  Phonemes:
+  - z'
+  - a
+  - z'
+  - a
+  - z'
+  Description: зязязь
+- Filename: __k_a_k_a_k
+  Phonemes:
+  - k
+  - a
+  - k
+  - a
+  - k
+  Description: какак
+- Filename: __k'_a_k'_a_k'
+  Phonemes:
+  - k'
+  - a
+  - k'
+  - a
+  - k'
+  Description: кякякь
+- Filename: __l_a_l_a_l
+  Phonemes:
+  - l
+  - a
+  - l
+  - a
+  - l
+  Description: лалал
+- Filename: __l'_a_l'_a_l'
+  Phonemes:
+  - l'
+  - a
+  - l'
+  - a
+  - l'
+  Description: ляляль
+- Filename: __m_a_m_a_m
+  Phonemes:
+  - m
+  - a
+  - m
+  - a
+  - m
+  Description: мамам
+- Filename: __m'_a_m'_a_m'
+  Phonemes:
+  - m'
+  - a
+  - m'
+  - a
+  - m'
+  Description: мямямь
+- Filename: __n_a_n_a_n
+  Phonemes:
+  - n
+  - a
+  - n
+  - a
+  - n
+  Description: нанан
+- Filename: __n'_a_n'_a_n'
+  Phonemes:
+  - n'
+  - a
+  - n'
+  - a
+  - n'
+  Description: нянянь
+- Filename: __p_a_p_a_p
+  Phonemes:
+  - p
+  - a
+  - p
+  - a
+  - p
+  Description: папап
+- Filename: __p'_a_p'_a_p'
+  Phonemes:
+  - p'
+  - a
+  - p'
+  - a
+  - p'
+  Description: пяпяпь
+- Filename: __r_a_r_a_r
+  Phonemes:
+  - r
+  - a
+  - r
+  - a
+  - r
+  Description: рарар
+- Filename: __r'_a_r'_a_r'
+  Phonemes:
+  - r'
+  - a
+  - r'
+  - a
+  - r'
+  Description: рярярь
+- Filename: __s_a_s_a_s
+  Phonemes:
+  - s
+  - a
+  - s
+  - a
+  - s
+  Description: сасас
+- Filename: __s'_a_s'_a_s'
+  Phonemes:
+  - s'
+  - a
+  - s'
+  - a
+  - s'
+  Description: сясясь
+- Filename: __t_a_t_a_t
+  Phonemes:
+  - t
+  - a
+  - t
+  - a
+  - t
+  Description: татат
+- Filename: __t'_a_t'_a_t'
+  Phonemes:
+  - t'
+  - a
+  - t'
+  - a
+  - t'
+  Description: тятять
+- Filename: __f_a_f_a_f
+  Phonemes:
+  - f
+  - a
+  - f
+  - a
+  - f
+  Description: фафаф
+- Filename: __f'_a_f'_a_f'
+  Phonemes:
+  - f'
+  - a
+  - f'
+  - a
+  - f'
+  Description: фяфяфь
+- Filename: __h_a_h_a_h
+  Phonemes:
+  - h
+  - a
+  - h
+  - a
+  - h
+  Description: хахах
+- Filename: __h'_a_h'_a_h'
+  Phonemes:
+  - h'
+  - a
+  - h'
+  - a
+  - h'
+  Description: хяхяхь
+- Filename: __sh_a_sh_a_sh
+  Phonemes:
+  - sh
+  - a
+  - sh
+  - a
+  - sh
+  Description: шашаш
+- Filename: __sh'_a_sh'_a_sh'
+  Phonemes:
+  - sh'
+  - a
+  - sh'
+  - a
+  - sh'
+  Description: щящящ
+- Filename: __zh_a_zh_a_zh
+  Phonemes:
+  - zh
+  - a
+  - zh
+  - a
+  - zh
+  Description: жажаж
+- Filename: __j_a_j_a_j
+  Phonemes:
+  - j
+  - a
+  - j
+  - a
+  - j
+  Description: яяй
+- Filename: __ts_a_ts_a_ts
+  Phonemes:
+  - ts
+  - a
+  - ts
+  - a
+  - ts
+  Description: цацац
+- Filename: __ch_a_ch_a_ch
+  Phonemes:
+  - ch
+  - a
+  - ch
+  - a
+  - ch
+  Description: чачачь
+- Filename: __a_e_a_o_a
+  Phonemes:
+  - a
+  - e
+  - a
+  - o
+  - a
+  Description: ''
+- Filename: __a_u_a_y_a
+  Phonemes:
+  - a
+  - u
+  - a
+  - y
+  - a
+  Description: ''
+- Filename: __a_i_a_a
+  Phonemes:
+  - a
+  - i
+  - a
+  - a
+  Description: ''
+- Filename: __e_o_e_u_e
+  Phonemes:
+  - e
+  - o
+  - e
+  - u
+  - e
+  Description: ''
+- Filename: __e_y_e_e
+  Phonemes:
+  - e
+  - y
+  - e
+  - e
+  Description: ''
+- Filename: __o_u_o_y_o
+  Phonemes:
+  - o
+  - u
+  - o
+  - y
+  - o
+  Description: ''
+- Filename: __o_i_o_o
+  Phonemes:
+  - o
+  - i
+  - o
+  - o
+  Description: ''
+- Filename: __u_y_u_u
+  Phonemes:
+  - u
+  - y
+  - u
+  - u
+  Description: ''
+- Filename: __y_i_i_y_y
+  Phonemes:
+  - y
+  - i
+  - i
+  - y
+  - y
+  Description: ''
+- Filename: __i_e_i_u_i
+  Phonemes:
+  - i
+  - e
+  - i
+  - u
+  - i
+  Description: ''
+- Filename: __b_e_b_e_b
+  Phonemes:
+  - b
+  - e
+  - b
+  - e
+  - b
+  Description: бэбэб
+- Filename: __b_o_b_o_b
+  Phonemes:
+  - b
+  - o
+  - b
+  - o
+  - b
+  Description: бобоб
+- Filename: __b_u_b_u_b
+  Phonemes:
+  - b
+  - u
+  - b
+  - u
+  - b
+  Description: бубуб
+- Filename: __b_y_b_y_b
+  Phonemes:
+  - b
+  - y
+  - b
+  - y
+  - b
+  Description: быбыб
+- Filename: __b'_e_b'_e_b'
+  Phonemes:
+  - b'
+  - e
+  - b'
+  - e
+  - b'
+  Description: бебебь
+- Filename: __b'_o_b'_o_b'
+  Phonemes:
+  - b'
+  - o
+  - b'
+  - o
+  - b'
+  Description: бёбёбь
+- Filename: __b'_u_b'_u_b'
+  Phonemes:
+  - b'
+  - u
+  - b'
+  - u
+  - b'
+  Description: бюбюбь
+- Filename: __b'_i_b'_i_b'
+  Phonemes:
+  - b'
+  - i
+  - b'
+  - i
+  - b'
+  Description: бибибь
+- Filename: __v_e_v_e_v
+  Phonemes:
+  - v
+  - e
+  - v
+  - e
+  - v
+  Description: вэвэв
+- Filename: __v_o_v_o_v
+  Phonemes:
+  - v
+  - o
+  - v
+  - o
+  - v
+  Description: вовов
+- Filename: __v_u_v_u_v
+  Phonemes:
+  - v
+  - u
+  - v
+  - u
+  - v
+  Description: вувув
+- Filename: __v_y_v_y_v
+  Phonemes:
+  - v
+  - y
+  - v
+  - y
+  - v
+  Description: вывыв
+- Filename: __v'_i_v'_i_v'
+  Phonemes:
+  - v'
+  - i
+  - v'
+  - i
+  - v'
+  Description: вививь
+- Filename: __v'_e_v'_e_v'
+  Phonemes:
+  - v'
+  - e
+  - v'
+  - e
+  - v'
+  Description: вевевь
+- Filename: __v'_o_v'_o_v'
+  Phonemes:
+  - v'
+  - o
+  - v'
+  - o
+  - v'
+  Description: вёвёвь
+- Filename: __v'_u_v'_u_v'
+  Phonemes:
+  - v'
+  - u
+  - v'
+  - u
+  - v'
+  Description: вювювь
+- Filename: __g_e_g_e_g
+  Phonemes:
+  - g
+  - e
+  - g
+  - e
+  - g
+  Description: гэгэг
+- Filename: __g_o_g_o_g
+  Phonemes:
+  - g
+  - o
+  - g
+  - o
+  - g
+  Description: гогог
+- Filename: __g_u_g_u_g
+  Phonemes:
+  - g
+  - u
+  - g
+  - u
+  - g
+  Description: гугуг
+- Filename: __g_y_g_y_g
+  Phonemes:
+  - g
+  - y
+  - g
+  - y
+  - g
+  Description: гыгыг
+- Filename: __g'_e_g'_e_g'
+  Phonemes:
+  - g'
+  - e
+  - g'
+  - e
+  - g'
+  Description: гегегь
+- Filename: __g'_o_g'_o_g'
+  Phonemes:
+  - g'
+  - o
+  - g'
+  - o
+  - g'
+  Description: гёгёгь
+- Filename: __g'_u_g'_u_g'
+  Phonemes:
+  - g'
+  - u
+  - g'
+  - u
+  - g'
+  Description: гюгюгь
+- Filename: __g'_i_g'_i_g'
+  Phonemes:
+  - g'
+  - i
+  - g'
+  - i
+  - g'
+  Description: гигигь
+- Filename: __d_e_d_e_d
+  Phonemes:
+  - d
+  - e
+  - d
+  - e
+  - d
+  Description: дэдэд
+- Filename: __d_o_d_o_d
+  Phonemes:
+  - d
+  - o
+  - d
+  - o
+  - d
+  Description: додод
+- Filename: __d_u_d_u_d
+  Phonemes:
+  - d
+  - u
+  - d
+  - u
+  - d
+  Description: дудуд
+- Filename: __d_y_d_y_d
+  Phonemes:
+  - d
+  - y
+  - d
+  - y
+  - d
+  Description: дыдыд
+- Filename: __d'_e_d'_e_d'
+  Phonemes:
+  - d'
+  - e
+  - d'
+  - e
+  - d'
+  Description: дедедь
+- Filename: __d'_o_d'_o_d'
+  Phonemes:
+  - d'
+  - o
+  - d'
+  - o
+  - d'
+  Description: дёдёдь
+- Filename: __d'_u_d'_u_d'
+  Phonemes:
+  - d'
+  - u
+  - d'
+  - u
+  - d'
+  Description: дюдюдь
+- Filename: __d'_i_d'_i_d'
+  Phonemes:
+  - d'
+  - i
+  - d'
+  - i
+  - d'
+  Description: дидидь
+- Filename: __z_e_z_e_z
+  Phonemes:
+  - z
+  - e
+  - z
+  - e
+  - z
+  Description: зэзэз
+- Filename: __z_o_z_o_z
+  Phonemes:
+  - z
+  - o
+  - z
+  - o
+  - z
+  Description: зозоз
+- Filename: __z_u_z_u_z
+  Phonemes:
+  - z
+  - u
+  - z
+  - u
+  - z
+  Description: зузуз
+- Filename: __z_y_z_y_z
+  Phonemes:
+  - z
+  - y
+  - z
+  - y
+  - z
+  Description: зызыз
+- Filename: __z'_e_z'_e_z'
+  Phonemes:
+  - z'
+  - e
+  - z'
+  - e
+  - z'
+  Description: зезезь
+- Filename: __z'_o_z'_o_z'
+  Phonemes:
+  - z'
+  - o
+  - z'
+  - o
+  - z'
+  Description: зёзёзь
+- Filename: __z'_u_z'_u_z'
+  Phonemes:
+  - z'
+  - u
+  - z'
+  - u
+  - z'
+  Description: зюзюзь
+- Filename: __z'_i_z'_i_z'
+  Phonemes:
+  - z'
+  - i
+  - z'
+  - i
+  - z'
+  Description: зизизь
+- Filename: __k_e_k_e_k
+  Phonemes:
+  - k
+  - e
+  - k
+  - e
+  - k
+  Description: кэкэк
+- Filename: __k_o_k_o_k
+  Phonemes:
+  - k
+  - o
+  - k
+  - o
+  - k
+  Description: кокок
+- Filename: __k_u_k_u_k
+  Phonemes:
+  - k
+  - u
+  - k
+  - u
+  - k
+  Description: кукук
+- Filename: __k_y_k_y_k
+  Phonemes:
+  - k
+  - y
+  - k
+  - y
+  - k
+  Description: кыкык
+- Filename: __k'_e_k'_e_k'
+  Phonemes:
+  - k'
+  - e
+  - k'
+  - e
+  - k'
+  Description: кекекь
+- Filename: __k'_o_k'_o_k'
+  Phonemes:
+  - k'
+  - o
+  - k'
+  - o
+  - k'
+  Description: кёкёкь
+- Filename: __k'_u_k'_u_k'
+  Phonemes:
+  - k'
+  - u
+  - k'
+  - u
+  - k'
+  Description: кюкюкь
+- Filename: __k'_i_k'_i_k'
+  Phonemes:
+  - k'
+  - i
+  - k'
+  - i
+  - k'
+  Description: кикикь
+- Filename: __l_e_l_e_l
+  Phonemes:
+  - l
+  - e
+  - l
+  - e
+  - l
+  Description: лэлэл
+- Filename: __l_o_l_o_l
+  Phonemes:
+  - l
+  - o
+  - l
+  - o
+  - l
+  Description: лолол
+- Filename: __l_u_l_u_l
+  Phonemes:
+  - l
+  - u
+  - l
+  - u
+  - l
+  Description: лулул
+- Filename: __l_y_l_y_l
+  Phonemes:
+  - l
+  - y
+  - l
+  - y
+  - l
+  Description: лылыл
+- Filename: __l'_e_l'_e_l'
+  Phonemes:
+  - l'
+  - e
+  - l'
+  - e
+  - l'
+  Description: лелель
+- Filename: __l'_o_l'_o_l'
+  Phonemes:
+  - l'
+  - o
+  - l'
+  - o
+  - l'
+  Description: лёлёль
+- Filename: __l'_u_l'_u_l'
+  Phonemes:
+  - l'
+  - u
+  - l'
+  - u
+  - l'
+  Description: люлюль
+- Filename: __l'_i_l'_i_l'
+  Phonemes:
+  - l'
+  - i
+  - l'
+  - i
+  - l'
+  Description: лилиль
+- Filename: __m_e_m_e_m
+  Phonemes:
+  - m
+  - e
+  - m
+  - e
+  - m
+  Description: мэмэм
+- Filename: __m_o_m_o_m
+  Phonemes:
+  - m
+  - o
+  - m
+  - o
+  - m
+  Description: момом
+- Filename: __m_u_m_u_m
+  Phonemes:
+  - m
+  - u
+  - m
+  - u
+  - m
+  Description: мумум
+- Filename: __m_y_m_y_m
+  Phonemes:
+  - m
+  - y
+  - m
+  - y
+  - m
+  Description: мымым
+- Filename: __m'_e_m'_e_m'
+  Phonemes:
+  - m'
+  - e
+  - m'
+  - e
+  - m'
+  Description: мемемь
+- Filename: __m'_o_m'_o_m'
+  Phonemes:
+  - m'
+  - o
+  - m'
+  - o
+  - m'
+  Description: мёмёмь
+- Filename: __m'_u_m'_u_m'
+  Phonemes:
+  - m'
+  - u
+  - m'
+  - u
+  - m'
+  Description: мюмюмь
+- Filename: __m'_i_m'_i_m'
+  Phonemes:
+  - m'
+  - i
+  - m'
+  - i
+  - m'
+  Description: мимимь
+- Filename: __n_e_n_e_n
+  Phonemes:
+  - n
+  - e
+  - n
+  - e
+  - n
+  Description: нэнэн
+- Filename: __n_o_n_o_n
+  Phonemes:
+  - n
+  - o
+  - n
+  - o
+  - n
+  Description: нонон
+- Filename: __n_u_n_u_n
+  Phonemes:
+  - n
+  - u
+  - n
+  - u
+  - n
+  Description: нунун
+- Filename: __n_y_n_y_n
+  Phonemes:
+  - n
+  - y
+  - n
+  - y
+  - n
+  Description: нынын
+- Filename: __n'_e_n'_e_n'
+  Phonemes:
+  - n'
+  - e
+  - n'
+  - e
+  - n'
+  Description: ненень
+- Filename: __n'_o_n'_o_n'
+  Phonemes:
+  - n'
+  - o
+  - n'
+  - o
+  - n'
+  Description: нёнёнь
+- Filename: __n'_u_n'_u_n'
+  Phonemes:
+  - n'
+  - u
+  - n'
+  - u
+  - n'
+  Description: нюнюнь
+- Filename: __n_y_n'_i_n
+  Phonemes:
+  - n
+  - y
+  - n'
+  - i
+  - n
+  Description: нынин
+- Filename: __p_e_p_e_p
+  Phonemes:
+  - p
+  - e
+  - p
+  - e
+  - p
+  Description: пэпэп
+- Filename: __p_o_p_o_p
+  Phonemes:
+  - p
+  - o
+  - p
+  - o
+  - p
+  Description: попоп
+- Filename: __p_u_p_u_p
+  Phonemes:
+  - p
+  - u
+  - p
+  - u
+  - p
+  Description: пупуп
+- Filename: __p_y_p_y_p
+  Phonemes:
+  - p
+  - y
+  - p
+  - y
+  - p
+  Description: пыпып
+- Filename: __p'_e_p'_e_p'
+  Phonemes:
+  - p'
+  - e
+  - p'
+  - e
+  - p'
+  Description: пепепь
+- Filename: __p'_o_p'_o_p'
+  Phonemes:
+  - p'
+  - o
+  - p'
+  - o
+  - p'
+  Description: пёпёпь
+- Filename: __p'_u_p'_u_p'
+  Phonemes:
+  - p'
+  - u
+  - p'
+  - u
+  - p'
+  Description: пюпюпь
+- Filename: __p'_i_p'_i_p'
+  Phonemes:
+  - p'
+  - i
+  - p'
+  - i
+  - p'
+  Description: пипипь
+- Filename: __r_e_r_e_r
+  Phonemes:
+  - r
+  - e
+  - r
+  - e
+  - r
+  Description: рэрэр
+- Filename: __r_o_r_o_r
+  Phonemes:
+  - r
+  - o
+  - r
+  - o
+  - r
+  Description: ророр
+- Filename: __r_u_r_u_r
+  Phonemes:
+  - r
+  - u
+  - r
+  - u
+  - r
+  Description: рурур
+- Filename: __r_y_r_y_r
+  Phonemes:
+  - r
+  - y
+  - r
+  - y
+  - r
+  Description: рырыр
+- Filename: __r'_e_r'_e_r'
+  Phonemes:
+  - r'
+  - e
+  - r'
+  - e
+  - r'
+  Description: ререрь
+- Filename: __r'_o_r'_o_r'
+  Phonemes:
+  - r'
+  - o
+  - r'
+  - o
+  - r'
+  Description: рёрёрь
+- Filename: __r'_u_r'_u_r'
+  Phonemes:
+  - r'
+  - u
+  - r'
+  - u
+  - r'
+  Description: рюрюрь
+- Filename: __r'_i_r'_i_r'
+  Phonemes:
+  - r'
+  - i
+  - r'
+  - i
+  - r'
+  Description: ририрь
+- Filename: __s_e_s_e_s
+  Phonemes:
+  - s
+  - e
+  - s
+  - e
+  - s
+  Description: сэсэс
+- Filename: __s_o_s_o_s
+  Phonemes:
+  - s
+  - o
+  - s
+  - o
+  - s
+  Description: сосос
+- Filename: __s_u_s_u_s
+  Phonemes:
+  - s
+  - u
+  - s
+  - u
+  - s
+  Description: сусус
+- Filename: __s_y_s_y_s
+  Phonemes:
+  - s
+  - y
+  - s
+  - y
+  - s
+  Description: сысыс
+- Filename: __s'_e_s'_e_s'
+  Phonemes:
+  - s'
+  - e
+  - s'
+  - e
+  - s'
+  Description: сесесь
+- Filename: __s'_o_s'_o_s'
+  Phonemes:
+  - s'
+  - o
+  - s'
+  - o
+  - s'
+  Description: сёсёсь
+- Filename: __s'_u_s'_u_s'
+  Phonemes:
+  - s'
+  - u
+  - s'
+  - u
+  - s'
+  Description: сюсюсь
+- Filename: __s'_i_s'_i_s'
+  Phonemes:
+  - s'
+  - i
+  - s'
+  - i
+  - s'
+  Description: сисись
+- Filename: __t_e_t_e_t
+  Phonemes:
+  - t
+  - e
+  - t
+  - e
+  - t
+  Description: тэтэт
+- Filename: __t_o_t_o_t
+  Phonemes:
+  - t
+  - o
+  - t
+  - o
+  - t
+  Description: тотот
+- Filename: __t_u_t_u_t
+  Phonemes:
+  - t
+  - u
+  - t
+  - u
+  - t
+  Description: тутут
+- Filename: __t_y_t_y_t
+  Phonemes:
+  - t
+  - y
+  - t
+  - y
+  - t
+  Description: тытыт
+- Filename: __t'_e_t'_e_t'
+  Phonemes:
+  - t'
+  - e
+  - t'
+  - e
+  - t'
+  Description: тететь
+- Filename: __t'_o_t'_o_t'
+  Phonemes:
+  - t'
+  - o
+  - t'
+  - o
+  - t'
+  Description: тётёть
+- Filename: __t'_u_t'_u_t'
+  Phonemes:
+  - t'
+  - u
+  - t'
+  - u
+  - t'
+  Description: тютють
+- Filename: __t'_i_t'_i_t'
+  Phonemes:
+  - t'
+  - i
+  - t'
+  - i
+  - t'
+  Description: титить
+- Filename: __f_e_f_e_f
+  Phonemes:
+  - f
+  - e
+  - f
+  - e
+  - f
+  Description: фэфэф
+- Filename: __f_o_f_o_f
+  Phonemes:
+  - f
+  - o
+  - f
+  - o
+  - f
+  Description: фофоф
+- Filename: __f_u_f_u_f
+  Phonemes:
+  - f
+  - u
+  - f
+  - u
+  - f
+  Description: фуфуф
+- Filename: __f_y_f_y_f
+  Phonemes:
+  - f
+  - y
+  - f
+  - y
+  - f
+  Description: фыфыф
+- Filename: __f'_e_f'_e_f'
+  Phonemes:
+  - f'
+  - e
+  - f'
+  - e
+  - f'
+  Description: фефефь
+- Filename: __f'_o_f'_o_f'
+  Phonemes:
+  - f'
+  - o
+  - f'
+  - o
+  - f'
+  Description: фёфёфь
+- Filename: __f'_u_f'_u_f'
+  Phonemes:
+  - f'
+  - u
+  - f'
+  - u
+  - f'
+  Description: фюфюфь
+- Filename: __f'_i_f'_i_f'
+  Phonemes:
+  - f'
+  - i
+  - f'
+  - i
+  - f'
+  Description: фифифь
+- Filename: __h_e_h_e_h
+  Phonemes:
+  - h
+  - e
+  - h
+  - e
+  - h
+  Description: хэхэх
+- Filename: __h_o_h_o_h
+  Phonemes:
+  - h
+  - o
+  - h
+  - o
+  - h
+  Description: хохох
+- Filename: __h_u_h_u_h
+  Phonemes:
+  - h
+  - u
+  - h
+  - u
+  - h
+  Description: хухух
+- Filename: __h_y_h_y_h
+  Phonemes:
+  - h
+  - y
+  - h
+  - y
+  - h
+  Description: хыхых
+- Filename: __h'_e_h'_e_h'
+  Phonemes:
+  - h'
+  - e
+  - h'
+  - e
+  - h'
+  Description: хехехь
+- Filename: __h'_o_h'_o_h'
+  Phonemes:
+  - h'
+  - o
+  - h'
+  - o
+  - h'
+  Description: хёхёхь
+- Filename: __h'_u_h'_u_h'
+  Phonemes:
+  - h'
+  - u
+  - h'
+  - u
+  - h'
+  Description: хюхюхь
+- Filename: __h'_i_h'_i_h'
+  Phonemes:
+  - h'
+  - i
+  - h'
+  - i
+  - h'
+  Description: хихихь
+- Filename: __sh_e_sh_e_sh
+  Phonemes:
+  - sh
+  - e
+  - sh
+  - e
+  - sh
+  Description: шэшэш
+- Filename: __sh_o_sh_o_sh
+  Phonemes:
+  - sh
+  - o
+  - sh
+  - o
+  - sh
+  Description: шошош
+- Filename: __sh_u_sh_u_sh
+  Phonemes:
+  - sh
+  - u
+  - sh
+  - u
+  - sh
+  Description: шушуш
+- Filename: __sh_y_sh_y_sh
+  Phonemes:
+  - sh
+  - y
+  - sh
+  - y
+  - sh
+  Description: шишиш
+- Filename: __sh'_e_sh'_e_sh'
+  Phonemes:
+  - sh'
+  - e
+  - sh'
+  - e
+  - sh'
+  Description: щещещ
+- Filename: __sh'_o_sh'_o_sh'
+  Phonemes:
+  - sh'
+  - o
+  - sh'
+  - o
+  - sh'
+  Description: щёщёщ
+- Filename: __sh'_u_sh'_u_sh'
+  Phonemes:
+  - sh'
+  - u
+  - sh'
+  - u
+  - sh'
+  Description: щющющ
+- Filename: __sh'_i_sh'_i_sh'
+  Phonemes:
+  - sh'
+  - i
+  - sh'
+  - i
+  - sh'
+  Description: щищищ
+- Filename: __zh_e_zh_e_zh
+  Phonemes:
+  - zh
+  - e
+  - zh
+  - e
+  - zh
+  Description: жэжэж
+- Filename: __zh_o_zh_o_zh
+  Phonemes:
+  - zh
+  - o
+  - zh
+  - o
+  - zh
+  Description: жожож
+- Filename: __zh_u_zh_u_zh
+  Phonemes:
+  - zh
+  - u
+  - zh
+  - u
+  - zh
+  Description: жужуж
+- Filename: __zh_y_zh_y_zh
+  Phonemes:
+  - zh
+  - y
+  - zh
+  - y
+  - zh
+  Description: жижиж
+- Filename: __j_e_j_e_j
+  Phonemes:
+  - j
+  - e
+  - j
+  - e
+  - j
+  Description: еей
+- Filename: __j_o_j_o_j
+  Phonemes:
+  - j
+  - o
+  - j
+  - o
+  - j
+  Description: ёёй
+- Filename: __j_u_j_u_j
+  Phonemes:
+  - j
+  - u
+  - j
+  - u
+  - j
+  Description: ююй
+- Filename: __j_y_j_y_j
+  Phonemes:
+  - j
+  - y
+  - j
+  - y
+  - j
+  Description: йыйый
+- Filename: __j_i_j_i_j
+  Phonemes:
+  - j
+  - i
+  - j
+  - i
+  - j
+  Description: йийий
+- Filename: __ts_e_ts_e_ts
+  Phonemes:
+  - ts
+  - e
+  - ts
+  - e
+  - ts
+  Description: цэцэц
+- Filename: __ts_o_ts_o_ts
+  Phonemes:
+  - ts
+  - o
+  - ts
+  - o
+  - ts
+  Description: цоцоц
+- Filename: __ts_u_ts_u_ts
+  Phonemes:
+  - ts
+  - u
+  - ts
+  - u
+  - ts
+  Description: цуцуц
+- Filename: __ts_y_ts_y_ts
+  Phonemes:
+  - ts
+  - y
+  - ts
+  - y
+  - ts
+  Description: цыцыц
+- Filename: __ch_e_ch_e_ch
+  Phonemes:
+  - ch
+  - e
+  - ch
+  - e
+  - ch
+  Description: чечечь
+- Filename: __ch_o_ch_o_ch
+  Phonemes:
+  - ch
+  - o
+  - ch
+  - o
+  - ch
+  Description: чочочь
+- Filename: __ch_u_ch_u_ch
+  Phonemes:
+  - ch
+  - u
+  - ch
+  - u
+  - ch
+  Description: чучучь
+- Filename: __ch_i_ch_i_ch
+  Phonemes:
+  - ch
+  - i
+  - ch
+  - i
+  - ch
+  Description: чичичь
+- Filename: __b'_i_b_y_b'
+  Phonemes:
+  - b'
+  - i
+  - b
+  - y
+  - b'
+  Description: бибыбь
+- Filename: __b_y_b'_i_b
+  Phonemes:
+  - b
+  - y
+  - b'
+  - i
+  - b
+  Description: быбиб
+- Filename: __v'_i_v_y_v'
+  Phonemes:
+  - v'
+  - i
+  - v
+  - y
+  - v'
+  Description: вивывь
+- Filename: __v_y_v'_i_v
+  Phonemes:
+  - v
+  - y
+  - v'
+  - i
+  - v
+  Description: вывив
+- Filename: __g'_i_g_y_g'
+  Phonemes:
+  - g'
+  - i
+  - g
+  - y
+  - g'
+  Description: гигыгь
+- Filename: __g_y_g'_i_g
+  Phonemes:
+  - g
+  - y
+  - g'
+  - i
+  - g
+  Description: гыгиг
+- Filename: __d'_i_d_y_d'
+  Phonemes:
+  - d'
+  - i
+  - d
+  - y
+  - d'
+  Description: дидыдь
+- Filename: __d_y_d'_i_d
+  Phonemes:
+  - d
+  - y
+  - d'
+  - i
+  - d
+  Description: дыдид
+- Filename: __z'_i_z_y_z'
+  Phonemes:
+  - z'
+  - i
+  - z
+  - y
+  - z'
+  Description: зизызь
+- Filename: __z_y_z'_i_z
+  Phonemes:
+  - z
+  - y
+  - z'
+  - i
+  - z
+  Description: зызиз
+- Filename: __k'_i_k_y_k'
+  Phonemes:
+  - k'
+  - i
+  - k
+  - y
+  - k'
+  Description: кикыкь
+- Filename: __k_y_k'_i_k
+  Phonemes:
+  - k
+  - y
+  - k'
+  - i
+  - k
+  Description: кыкик
+- Filename: __l'_i_l_y_l'
+  Phonemes:
+  - l'
+  - i
+  - l
+  - y
+  - l'
+  Description: лилыль
+- Filename: __l_y_l'_i_l
+  Phonemes:
+  - l
+  - y
+  - l'
+  - i
+  - l
+  Description: лылил
+- Filename: __m'_i_m_y_m'
+  Phonemes:
+  - m'
+  - i
+  - m
+  - y
+  - m'
+  Description: мимымь
+- Filename: __m_y_m'_i_m
+  Phonemes:
+  - m
+  - y
+  - m'
+  - i
+  - m
+  Description: мымим
+- Filename: __n'_i_n_y_n'
+  Phonemes:
+  - n'
+  - i
+  - n
+  - y
+  - n'
+  Description: нинынь
+- Filename: __n'_i_n'_i_n'
+  Phonemes:
+  - n'
+  - i
+  - n'
+  - i
+  - n'
+  Description: нининь
+- Filename: __p'_i_p_y_p'
+  Phonemes:
+  - p'
+  - i
+  - p
+  - y
+  - p'
+  Description: пипыпь
+- Filename: __p_y_p'_i_p
+  Phonemes:
+  - p
+  - y
+  - p'
+  - i
+  - p
+  Description: пыпип
+- Filename: __r'_i_r_y_r'
+  Phonemes:
+  - r'
+  - i
+  - r
+  - y
+  - r'
+  Description: рирырь
+- Filename: __r_y_r'_i_r
+  Phonemes:
+  - r
+  - y
+  - r'
+  - i
+  - r
+  Description: рырир
+- Filename: __s'_i_s_y_s'
+  Phonemes:
+  - s'
+  - i
+  - s
+  - y
+  - s'
+  Description: сисысь
+- Filename: __s_y_s'_i_s
+  Phonemes:
+  - s
+  - y
+  - s'
+  - i
+  - s
+  Description: сысис
+- Filename: __t'_i_t_y_t'
+  Phonemes:
+  - t'
+  - i
+  - t
+  - y
+  - t'
+  Description: титыть
+- Filename: __t_y_t'_i_t
+  Phonemes:
+  - t
+  - y
+  - t'
+  - i
+  - t
+  Description: тытит
+- Filename: __f'_i_f_y_f'
+  Phonemes:
+  - f'
+  - i
+  - f
+  - y
+  - f'
+  Description: фифыфь
+- Filename: __f_y_f'_i_f
+  Phonemes:
+  - f
+  - y
+  - f'
+  - i
+  - f
+  Description: фыфиф
+- Filename: __h'_i_h_y_h'
+  Phonemes:
+  - h'
+  - i
+  - h
+  - y
+  - h'
+  Description: хихыхь
+- Filename: __h_y_h'_i_h
+  Phonemes:
+  - h
+  - y
+  - h'
+  - i
+  - h
+  Description: хыхих
+- Filename: __sh'_i_sh_y_sh'
+  Phonemes:
+  - sh'
+  - i
+  - sh
+  - y
+  - sh'
+  Description: щишищ
+- Filename: __sh_y_sh'_i_sh
+  Phonemes:
+  - sh
+  - y
+  - sh'
+  - i
+  - sh
+  Description: шищиш
+- Filename: __k_ax_k_ax_k
+  Phonemes:
+  - k
+  - ax
+  - k
+  - ax
+  - k
+  Description: ''
+- Filename: __k_ax_k'_x_k
+  Phonemes:
+  - k
+  - ax
+  - k'
+  - x
+  - k
+  Description: ''
+- Filename: __l_ax_l_ax_l
+  Phonemes:
+  - l
+  - ax
+  - l
+  - ax
+  - l
+  Description: ''
+- Filename: __l_ax_l'_x_l
+  Phonemes:
+  - l
+  - ax
+  - l'
+  - x
+  - l
+  Description: ''
+- Filename: __m_ax_m_ax_m
+  Phonemes:
+  - m
+  - ax
+  - m
+  - ax
+  - m
+  Description: ''
+- Filename: __m_ax_m'_x_m
+  Phonemes:
+  - m
+  - ax
+  - m'
+  - x
+  - m
+  Description: ''
+- Filename: __n_ax_n_ax_n
+  Phonemes:
+  - n
+  - ax
+  - n
+  - ax
+  - n
+  Description: ''
+- Filename: __n_ax_n'_x_n
+  Phonemes:
+  - n
+  - ax
+  - n'
+  - x
+  - n
+  Description: ''
+- Filename: __p_ax_p_ax_p
+  Phonemes:
+  - p
+  - ax
+  - p
+  - ax
+  - p
+  Description: ''
+- Filename: __p_ax_p'_x_p
+  Phonemes:
+  - p
+  - ax
+  - p'
+  - x
+  - p
+  Description: ''
+- Filename: __r_ax_r_ax_r
+  Phonemes:
+  - r
+  - ax
+  - r
+  - ax
+  - r
+  Description: ''
+- Filename: __r_ax_r'_x_r
+  Phonemes:
+  - r
+  - ax
+  - r'
+  - x
+  - r
+  Description: ''
+- Filename: __s_ax_s_ax_s
+  Phonemes:
+  - s
+  - ax
+  - s
+  - ax
+  - s
+  Description: ''
+- Filename: __s_ax_s'_x_s
+  Phonemes:
+  - s
+  - ax
+  - s'
+  - x
+  - s
+  Description: ''
+- Filename: __t_ax_t_ax_t
+  Phonemes:
+  - t
+  - ax
+  - t
+  - ax
+  - t
+  Description: ''
+- Filename: __t_ax_t'_x_t
+  Phonemes:
+  - t
+  - ax
+  - t'
+  - x
+  - t
+  Description: ''
+- Filename: __f_ax_f_ax_f
+  Phonemes:
+  - f
+  - ax
+  - f
+  - ax
+  - f
+  Description: ''
+- Filename: __f_ax_f'_x_f
+  Phonemes:
+  - f
+  - ax
+  - f'
+  - x
+  - f
+  Description: ''
+- Filename: __h_ax_h_ax_h
+  Phonemes:
+  - h
+  - ax
+  - h
+  - ax
+  - h
+  Description: ''
+- Filename: __h_ax_h'_x_h
+  Phonemes:
+  - h
+  - ax
+  - h'
+  - x
+  - h
+  Description: ''
+- Filename: __sh_ax_sh_ax_sh
+  Phonemes:
+  - sh
+  - ax
+  - sh
+  - ax
+  - sh
+  Description: ''
+- Filename: __sh_ax_sh'_x_sh
+  Phonemes:
+  - sh
+  - ax
+  - sh'
+  - x
+  - sh
+  Description: ''
+- Filename: __zh_ax_zh_ax_zh
+  Phonemes:
+  - zh
+  - ax
+  - zh
+  - ax
+  - zh
+  Description: ''
+- Filename: __zh_ax_j_x_zh
+  Phonemes:
+  - zh
+  - ax
+  - j
+  - x
+  - zh
+  Description: ''
+- Filename: __ts_ax_ts_ax_ts
+  Phonemes:
+  - ts
+  - ax
+  - ts
+  - ax
+  - ts
+  Description: ''
+- Filename: __ts_ax_ch_x_ts
+  Phonemes:
+  - ts
+  - ax
+  - ch
+  - x
+  - ts
+  Description: ''
+- Filename: __b_ax_b_ax_b
+  Phonemes:
+  - b
+  - ax
+  - b
+  - ax
+  - b
+  Description: ''
+- Filename: __b_ax_b'_x_b
+  Phonemes:
+  - b
+  - ax
+  - b'
+  - x
+  - b
+  Description: ''
+- Filename: __v_ax_v_ax_v
+  Phonemes:
+  - v
+  - ax
+  - v
+  - ax
+  - v
+  Description: ''
+- Filename: __v_ax_v'_x_v
+  Phonemes:
+  - v
+  - ax
+  - v'
+  - x
+  - v
+  Description: ''
+- Filename: __g_ax_g_ax_g
+  Phonemes:
+  - g
+  - ax
+  - g
+  - ax
+  - g
+  Description: ''
+- Filename: __g_ax_g'_x_g
+  Phonemes:
+  - g
+  - ax
+  - g'
+  - x
+  - g
+  Description: ''
+- Filename: __d_ax_d_ax_d
+  Phonemes:
+  - d
+  - ax
+  - d
+  - ax
+  - d
+  Description: ''
+- Filename: __d_ax_d'_x_d
+  Phonemes:
+  - d
+  - ax
+  - d'
+  - x
+  - d
+  Description: ''
+- Filename: __z_ax_z_ax_z
+  Phonemes:
+  - z
+  - ax
+  - z
+  - ax
+  - z
+  Description: ''
+- Filename: __z_ax_z'_x_z
+  Phonemes:
+  - z
+  - ax
+  - z'
+  - x
+  - z
+  Description: ''
+- Filename: __ax_a_ax
+  Phonemes:
+  - ax
+  - a
+  - ax
+  Description: ''
+- Filename: __ax_e_ax
+  Phonemes:
+  - ax
+  - e
+  - ax
+  Description: ''
+- Filename: __ax_o_ax
+  Phonemes:
+  - ax
+  - o
+  - ax
+  Description: ''
+- Filename: __ax_u_ax
+  Phonemes:
+  - ax
+  - u
+  - ax
+  Description: ''
+- Filename: __ax_i_ax
+  Phonemes:
+  - ax
+  - i
+  - ax
+  Description: ''
+- Filename: __ax_y_ax
+  Phonemes:
+  - ax
+  - y
+  - ax
+  Description: ''
+- Filename: __k_ex_k_ex_k
+  Phonemes:
+  - k
+  - ex
+  - k
+  - ex
+  - k
+  Description: ''
+- Filename: __k_ex_k'_x_k
+  Phonemes:
+  - k
+  - ex
+  - k'
+  - x
+  - k
+  Description: ''
+- Filename: __l_ex_l_ex_l
+  Phonemes:
+  - l
+  - ex
+  - l
+  - ex
+  - l
+  Description: ''
+- Filename: __l_ex_l'_x_l
+  Phonemes:
+  - l
+  - ex
+  - l'
+  - x
+  - l
+  Description: ''
+- Filename: __m_ex_m_ex_m
+  Phonemes:
+  - m
+  - ex
+  - m
+  - ex
+  - m
+  Description: ''
+- Filename: __m_ex_m'_x_m
+  Phonemes:
+  - m
+  - ex
+  - m'
+  - x
+  - m
+  Description: ''
+- Filename: __n_ex_n_ex_n
+  Phonemes:
+  - n
+  - ex
+  - n
+  - ex
+  - n
+  Description: ''
+- Filename: __n_ex_n'_x_n
+  Phonemes:
+  - n
+  - ex
+  - n'
+  - x
+  - n
+  Description: ''
+- Filename: __p_ex_p_ex_p
+  Phonemes:
+  - p
+  - ex
+  - p
+  - ex
+  - p
+  Description: ''
+- Filename: __p_ex_p'_x_p
+  Phonemes:
+  - p
+  - ex
+  - p'
+  - x
+  - p
+  Description: ''
+- Filename: __r_ex_r_ex_r
+  Phonemes:
+  - r
+  - ex
+  - r
+  - ex
+  - r
+  Description: ''
+- Filename: __r_ex_r'_x_r
+  Phonemes:
+  - r
+  - ex
+  - r'
+  - x
+  - r
+  Description: ''
+- Filename: __s_ex_s_ex_s
+  Phonemes:
+  - s
+  - ex
+  - s
+  - ex
+  - s
+  Description: ''
+- Filename: __s_ex_s'_x_s
+  Phonemes:
+  - s
+  - ex
+  - s'
+  - x
+  - s
+  Description: ''
+- Filename: __t_ex_t_ex_t
+  Phonemes:
+  - t
+  - ex
+  - t
+  - ex
+  - t
+  Description: ''
+- Filename: __t_ex_t'_x_t
+  Phonemes:
+  - t
+  - ex
+  - t'
+  - x
+  - t
+  Description: ''
+- Filename: __f_ex_f_ex_f
+  Phonemes:
+  - f
+  - ex
+  - f
+  - ex
+  - f
+  Description: ''
+- Filename: __f_ex_f'_x_f
+  Phonemes:
+  - f
+  - ex
+  - f'
+  - x
+  - f
+  Description: ''
+- Filename: __h_ex_h_ex_h
+  Phonemes:
+  - h
+  - ex
+  - h
+  - ex
+  - h
+  Description: ''
+- Filename: __h_ex_h'_x_h
+  Phonemes:
+  - h
+  - ex
+  - h'
+  - x
+  - h
+  Description: ''
+- Filename: __sh_ex_sh_ex_sh
+  Phonemes:
+  - sh
+  - ex
+  - sh
+  - ex
+  - sh
+  Description: ''
+- Filename: __sh_ex_sh'_x_sh
+  Phonemes:
+  - sh
+  - ex
+  - sh'
+  - x
+  - sh
+  Description: ''
+- Filename: __zh_ex_zh_ex_zh
+  Phonemes:
+  - zh
+  - ex
+  - zh
+  - ex
+  - zh
+  Description: ''
+- Filename: __zh_ex_j_x_zh
+  Phonemes:
+  - zh
+  - ex
+  - j
+  - x
+  - zh
+  Description: ''
+- Filename: __ts_ex_ts_ex_ts
+  Phonemes:
+  - ts
+  - ex
+  - ts
+  - ex
+  - ts
+  Description: ''
+- Filename: __ts_ex_ch_x_ts
+  Phonemes:
+  - ts
+  - ex
+  - ch
+  - x
+  - ts
+  Description: ''
+- Filename: __b_ex_b_ex_b
+  Phonemes:
+  - b
+  - ex
+  - b
+  - ex
+  - b
+  Description: ''
+- Filename: __b_ex_b'_x_b
+  Phonemes:
+  - b
+  - ex
+  - b'
+  - x
+  - b
+  Description: ''
+- Filename: __v_ex_v_ex_v
+  Phonemes:
+  - v
+  - ex
+  - v
+  - ex
+  - v
+  Description: ''
+- Filename: __v_ex_v'_x_v
+  Phonemes:
+  - v
+  - ex
+  - v'
+  - x
+  - v
+  Description: ''
+- Filename: __g_ex_g_ex_g
+  Phonemes:
+  - g
+  - ex
+  - g
+  - ex
+  - g
+  Description: ''
+- Filename: __g_ex_g'_x_g
+  Phonemes:
+  - g
+  - ex
+  - g'
+  - x
+  - g
+  Description: ''
+- Filename: __d_ex_d_ex_d
+  Phonemes:
+  - d
+  - ex
+  - d
+  - ex
+  - d
+  Description: ''
+- Filename: __d_ex_d'_x_d
+  Phonemes:
+  - d
+  - ex
+  - d'
+  - x
+  - d
+  Description: ''
+- Filename: __z_ex_z_ex_z
+  Phonemes:
+  - z
+  - ex
+  - z
+  - ex
+  - z
+  Description: ''
+- Filename: __z_ex_z'_x_z
+  Phonemes:
+  - z
+  - ex
+  - z'
+  - x
+  - z
+  Description: ''
+- Filename: __ex_a_ex
+  Phonemes:
+  - ex
+  - a
+  - ex
+  Description: ''
+- Filename: __ex_e_ex
+  Phonemes:
+  - ex
+  - e
+  - ex
+  Description: ''
+- Filename: __ex_o_ex
+  Phonemes:
+  - ex
+  - o
+  - ex
+  Description: ''
+- Filename: __ex_u_ex
+  Phonemes:
+  - ex
+  - u
+  - ex
+  Description: ''
+- Filename: __ex_i_ex
+  Phonemes:
+  - ex
+  - i
+  - ex
+  Description: ''
+- Filename: __ex_y_ex
+  Phonemes:
+  - ex
+  - y
+  - ex
+  Description: ''
+- Filename: __k'_x_k'_x_k'
+  Phonemes:
+  - k'
+  - x
+  - k'
+  - x
+  - k'
+  Description: ''
+- Filename: __k'_x_k_ax_k'
+  Phonemes:
+  - k'
+  - x
+  - k
+  - ax
+  - k'
+  Description: ''
+- Filename: __k'_x_k_ex_k'
+  Phonemes:
+  - k'
+  - x
+  - k
+  - ex
+  - k'
+  Description: ''
+- Filename: __l'_x_l'_x_l'
+  Phonemes:
+  - l'
+  - x
+  - l'
+  - x
+  - l'
+  Description: ''
+- Filename: __l'_x_l_ax_l'
+  Phonemes:
+  - l'
+  - x
+  - l
+  - ax
+  - l'
+  Description: ''
+- Filename: __l'_x_l_ex_l'
+  Phonemes:
+  - l'
+  - x
+  - l
+  - ex
+  - l'
+  Description: ''
+- Filename: __m'_x_m'_x_m'
+  Phonemes:
+  - m'
+  - x
+  - m'
+  - x
+  - m'
+  Description: ''
+- Filename: __m'_x_m_ax_m'
+  Phonemes:
+  - m'
+  - x
+  - m
+  - ax
+  - m'
+  Description: ''
+- Filename: __m'_x_m_ex_m'
+  Phonemes:
+  - m'
+  - x
+  - m
+  - ex
+  - m'
+  Description: ''
+- Filename: __n'_x_n'_x_n'
+  Phonemes:
+  - n'
+  - x
+  - n'
+  - x
+  - n'
+  Description: ''
+- Filename: __n'_x_n_ax_n'
+  Phonemes:
+  - n'
+  - x
+  - n
+  - ax
+  - n'
+  Description: ''
+- Filename: __n'_x_n_ex_n'
+  Phonemes:
+  - n'
+  - x
+  - n
+  - ex
+  - n'
+  Description: ''
+- Filename: __p'_x_p'_x_p'
+  Phonemes:
+  - p'
+  - x
+  - p'
+  - x
+  - p'
+  Description: ''
+- Filename: __p'_x_p_ax_p'
+  Phonemes:
+  - p'
+  - x
+  - p
+  - ax
+  - p'
+  Description: ''
+- Filename: __p'_x_p_ex_p'
+  Phonemes:
+  - p'
+  - x
+  - p
+  - ex
+  - p'
+  Description: ''
+- Filename: __r'_x_r'_x_r'
+  Phonemes:
+  - r'
+  - x
+  - r'
+  - x
+  - r'
+  Description: ''
+- Filename: __r'_x_r_ax_r'
+  Phonemes:
+  - r'
+  - x
+  - r
+  - ax
+  - r'
+  Description: ''
+- Filename: __r'_x_r_ex_r'
+  Phonemes:
+  - r'
+  - x
+  - r
+  - ex
+  - r'
+  Description: ''
+- Filename: __s'_x_s'_x_s'
+  Phonemes:
+  - s'
+  - x
+  - s'
+  - x
+  - s'
+  Description: ''
+- Filename: __s'_x_s_ax_s'
+  Phonemes:
+  - s'
+  - x
+  - s
+  - ax
+  - s'
+  Description: ''
+- Filename: __s'_x_s_ex_s'
+  Phonemes:
+  - s'
+  - x
+  - s
+  - ex
+  - s'
+  Description: ''
+- Filename: __t'_x_t'_x_t'
+  Phonemes:
+  - t'
+  - x
+  - t'
+  - x
+  - t'
+  Description: ''
+- Filename: __t'_x_t_ax_t'
+  Phonemes:
+  - t'
+  - x
+  - t
+  - ax
+  - t'
+  Description: ''
+- Filename: __t'_x_t_ex_t'
+  Phonemes:
+  - t'
+  - x
+  - t
+  - ex
+  - t'
+  Description: ''
+- Filename: __f'_x_f'_x_f'
+  Phonemes:
+  - f'
+  - x
+  - f'
+  - x
+  - f'
+  Description: ''
+- Filename: __f'_x_f_ax_f'
+  Phonemes:
+  - f'
+  - x
+  - f
+  - ax
+  - f'
+  Description: ''
+- Filename: __f'_x_f_ex_f'
+  Phonemes:
+  - f'
+  - x
+  - f
+  - ex
+  - f'
+  Description: ''
+- Filename: __h'_x_h'_x_h'
+  Phonemes:
+  - h'
+  - x
+  - h'
+  - x
+  - h'
+  Description: ''
+- Filename: __h'_x_h_ax_h'
+  Phonemes:
+  - h'
+  - x
+  - h
+  - ax
+  - h'
+  Description: ''
+- Filename: __h'_x_h_ex_h'
+  Phonemes:
+  - h'
+  - x
+  - h
+  - ex
+  - h'
+  Description: ''
+- Filename: __sh'_x_sh'_x_sh'
+  Phonemes:
+  - sh'
+  - x
+  - sh'
+  - x
+  - sh'
+  Description: ''
+- Filename: __sh'_x_sh_ax_sh'
+  Phonemes:
+  - sh'
+  - x
+  - sh
+  - ax
+  - sh'
+  Description: ''
+- Filename: __sh'_x_sh_ex_sh'
+  Phonemes:
+  - sh'
+  - x
+  - sh
+  - ex
+  - sh'
+  Description: ''
+- Filename: __j_x_j_x_j
+  Phonemes:
+  - j
+  - x
+  - j
+  - x
+  - j
+  Description: ''
+- Filename: __j_x_zh_ax_j
+  Phonemes:
+  - j
+  - x
+  - zh
+  - ax
+  - j
+  Description: ''
+- Filename: __j_x_zh_ex_j
+  Phonemes:
+  - j
+  - x
+  - zh
+  - ex
+  - j
+  Description: ''
+- Filename: __ch_x_ch_x_ch
+  Phonemes:
+  - ch
+  - x
+  - ch
+  - x
+  - ch
+  Description: ''
+- Filename: __ch_x_ts_ax_ch
+  Phonemes:
+  - ch
+  - x
+  - ts
+  - ax
+  - ch
+  Description: ''
+- Filename: __ch_x_ts_ex_ch
+  Phonemes:
+  - ch
+  - x
+  - ts
+  - ex
+  - ch
+  Description: ''
+- Filename: __b'_x_b'_x_b'
+  Phonemes:
+  - b'
+  - x
+  - b'
+  - x
+  - b'
+  Description: ''
+- Filename: __b'_x_b_ax_b'
+  Phonemes:
+  - b'
+  - x
+  - b
+  - ax
+  - b'
+  Description: ''
+- Filename: __b'_x_b_ex_b'
+  Phonemes:
+  - b'
+  - x
+  - b
+  - ex
+  - b'
+  Description: ''
+- Filename: __v'_x_v'_x_v'
+  Phonemes:
+  - v'
+  - x
+  - v'
+  - x
+  - v'
+  Description: ''
+- Filename: __v'_x_v_ax_v'
+  Phonemes:
+  - v'
+  - x
+  - v
+  - ax
+  - v'
+  Description: ''
+- Filename: __v'_x_v_ex_v'
+  Phonemes:
+  - v'
+  - x
+  - v
+  - ex
+  - v'
+  Description: ''
+- Filename: __g'_x_g'_x_g'
+  Phonemes:
+  - g'
+  - x
+  - g'
+  - x
+  - g'
+  Description: ''
+- Filename: __g'_x_g_ax_g'
+  Phonemes:
+  - g'
+  - x
+  - g
+  - ax
+  - g'
+  Description: ''
+- Filename: __g'_x_g_ex_g'
+  Phonemes:
+  - g'
+  - x
+  - g
+  - ex
+  - g'
+  Description: ''
+- Filename: __d'_x_d'_x_d'
+  Phonemes:
+  - d'
+  - x
+  - d'
+  - x
+  - d'
+  Description: ''
+- Filename: __d'_x_d_ax_d'
+  Phonemes:
+  - d'
+  - x
+  - d
+  - ax
+  - d'
+  Description: ''
+- Filename: __d'_x_d_ex_d'
+  Phonemes:
+  - d'
+  - x
+  - d
+  - ex
+  - d'
+  Description: ''
+- Filename: __z'_x_z'_x_z'
+  Phonemes:
+  - z'
+  - x
+  - z'
+  - x
+  - z'
+  Description: ''
+- Filename: __z'_x_z_ax_z'
+  Phonemes:
+  - z'
+  - x
+  - z
+  - ax
+  - z'
+  Description: ''
+- Filename: __z'_x_z_ex_z'
+  Phonemes:
+  - z'
+  - x
+  - z
+  - ex
+  - z'
+  Description: ''
+- Filename: __x_a_x
+  Phonemes:
+  - x
+  - a
+  - x
+  Description: ''
+- Filename: __x_e_x
+  Phonemes:
+  - x
+  - e
+  - x
+  Description: ''
+- Filename: __x_o_x
+  Phonemes:
+  - x
+  - o
+  - x
+  Description: ''
+- Filename: __x_u_x
+  Phonemes:
+  - x
+  - u
+  - x
+  Description: ''
+- Filename: __x_i_x
+  Phonemes:
+  - x
+  - i
+  - x
+  Description: ''
+- Filename: __x_y_x
+  Phonemes:
+  - x
+  - y
+  - x
+  Description: ''
+- Filename: __ax_ax_x_ax
+  Phonemes:
+  - ax
+  - ax
+  - x
+  - ax
+  Description: ''
+- Filename: __ex_ex_ax_ex
+  Phonemes:
+  - ex
+  - ex
+  - ax
+  - ex
+  Description: ''
+- Filename: __x_x_ex_x
+  Phonemes:
+  - x
+  - x
+  - ex
+  - x
+  Description: ''
+

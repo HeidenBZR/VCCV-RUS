@@ -1,0 +1,57 @@
+﻿[MAIN]
+Version=0.3
+Vowels=a,e,o,u,i,ex,ax,x
+Consonants=sh',sh,zh,j,ts,ch,b',b,v',v,g',g,d',d,z',z,k',k,l',l,m',m,n',n,p',p,r',r,s',s,t',t,f',f,h',h
+Rests=R
+ExampleWord=привет
+[FORMAT]
+V=%V%
+C=%C%
+-C=- %C%
+-CV=- %C%%V%
+V-=%V% -
+-V=- %V%
+CV=%C%%V%
+VC=%V% %C%
+VV=%V% %V%
+CC=%C% %C%
+VC-=%V%%C% -
+[SPLIT]
+KeepWordsBeginnigs=false
+KeepCC=false
+KeepCV=false
+[CONVERT]
+V,C=VC[-1][0]
+V,V=VV[-1][0]
+V,R=INSERT(V-[-1][])
+R,C=-C[][0]
+R,V=-V[][0]
+C,V=CV[-1][0]
+C,C=CC[-1][0]
+-C,V=-CV[-1][0]
+CV,C>V,C
+-CV,C>V,C
+VV,C>V,C
+-V,C>V,C
+CV,V>V,V
+-CV,V>V,V
+VV,V>V,V
+-V,V>V,V
+CV,R>V,R
+-CV,R>V,R
+VV,R>V,R
+-V,R>V,R
+CC,C>C,C
+-C,C>C,C
+VC,C>C,C
+CC,V>C,V
+VC,V>C,V
+R,CV>R,CV
+[PHONEME_REPLACE]
+b('?) (s|t|k|f|p|sh|ch|ts)('?)=p$1 $2$3
+v('?) (s|t|k|f|p|sh|ch|ts)('?)=f$1 $2$3
+g('?) (s|t|k|f|p|sh|ch|ts)('?)=k$1 $2$3
+d('?) (s|t|k|f|p|sh|ch|ts)('?)=t$1 $2$3
+zh('?) (s|t|k|f|p|sh|ch|ts)('?)=sh$1 $2$3
+z('?) (s|t|k|f|p|sh|ch|ts)('?)=s$1 $2$3
+[ALIAS_REPLACE]
